@@ -100,15 +100,9 @@ Describe how this project demonstrates your engineering skills.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ViperSoftTechnology&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViperSoftTechnology&layout=compact&theme=tokyonight" />
-
-</div>
+Coming Soon....
 
 ---
 
