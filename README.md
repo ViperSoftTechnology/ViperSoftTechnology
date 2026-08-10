@@ -33,7 +33,7 @@ I thrive at the intersection of:
 ### Languages
 
 ```text
-JavaScript • TypeScript • Python • Java • Flutter • Php • SQL
+JavaScript • TypeScript • Python • Java • Dart • Php • SQL
 ```
 
 ### Frontend
@@ -63,44 +63,44 @@ Docker • Kubernetes • AWS • Azure • CI/CD
 ### Tools
 
 ```text
-Git • Linux • VS Code • Postman • Figma
+Git • Linux • VS Code • Android Studio • Postman • Figma
 ```
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🚀 Project One
+### 🚀 Gesture-based UI Control System
 
 Short description of what the project does and the impact it creates.
 
-**Tech:** React, Node.js, PostgreSQL
+**Tech:** Python
 
-🔗 Repository: https://github.com/ViperSoftTechnology/project-one
+🔗 Repository: https://github.com/ViperSoftTechnology/Gesture-based_UI_Control_System
 
 ---
 
-### 💡 Project Two
+### 💡 Smart Instruction Follower
 
 A brief summary highlighting the problem solved and key features.
 
-**Tech:** Python, FastAPI, Docker
+**Tech:** Java
 
-🔗 Repository: https://github.com/ViperSoftTechnology/project-two
+🔗 Repository: https://github.com/ViperSoftTechnology/Smart_Instruction_Follower
 
 ---
 
-### 📱 Project Three
+### 📱 Binance Stablecoin Arbitrage Bot
 
 Describe how this project demonstrates your engineering skills.
 
-**Tech:** Next.js, TypeScript, MongoDB
+**Tech:** JavaScript, Node.js, TypeScript, SQLite
 
-🔗 Repository: https://github.com/ViperSoftTechnology/project-three
+🔗 Repository: https://github.com/ViperSoftTechnology/stablecoin-arb-bot
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements/Live Projects
 
 Coming Soon....
 
